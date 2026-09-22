@@ -1,2 +1,4 @@
-# writeups
-Analise e relatório técnico de segurança 
+Qualquer pessoa na internet conseguiria acessar os dados dos clientes só com o link, sem precisar de senha nenhuma. Daí em diante, alguém poderia ligar para seus clientes se fingindo de ser você, vender essa lista de contatos para concorrentes ou até mesmo fazer chantagem. A empresa perderia a confiança de todo mundo, levaria processo na justiça, pagaria multa pesada pela LGPD e veria clientes cancelando contratos em massa. É tipo deixar a porta de casa aberta à noite e acordar com um estranho dentro.
+Da próxima vez eu ia auditar as permissões de compartilhamento de tempos em tempos, em vez de confiar que ficou certo desde que foi criado. Ia deixar como padrão o link restrito, nunca qualquer pessoa com o link, e ia montar algum tipo de verificação automática que avisasse se um arquivo desses ficasse exposto, em vez de descobrir isso na mão, olhando um por um.
+<img width="1740" height="1034" alt="FIGURA 2" src="https://github.com/user-attachments/assets/c607810a-99ca-4e07-be1e-a2142a06adfe" />
+<img width="1795" height="1018" alt="FIGURA 3" src="https://github.com/user-attachments/assets/ea07d77b-1698-4dc4-862a-dbe89ad1e14d" />
